@@ -9,10 +9,10 @@ Scarica da [qui](https://github.com/billy4479/port-tester/releases) l'ultima ver
 Su windows apri la cartella in cui hai scaricato `port-tester_windows_x86-64.exe` e apri `cmd` in quella cartella e digita il seguente comando:
 
 ```sh
-./port-tester.exe -port <porta da testare>
+.\port-tester_windows_x86-64.exe -port <porta da testare>
 ```
 
-Sostituisci `<porta da testare>` con la vera porta (per minecraft è `25565`). Assicurati di averla anche aperta nel modem se no ovviamente non funzionerà.
+Sostituisci `<porta da testare>` con la vera porta (senza `<>`, per minecraft è `25565`). Assicurati di averla anche aperta nel modem se no ovviamente non funzionerà.
 
 ## Compila
 
